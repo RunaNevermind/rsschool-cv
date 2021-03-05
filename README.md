@@ -1,2 +1,2 @@
 # rsschool-cv
-https://RunaNerwermind.github.io/rsschool-cv/cv
+https://runanevermind.github.io/rsschool-cv/
